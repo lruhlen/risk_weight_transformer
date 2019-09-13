@@ -1,0 +1,6 @@
+animal,planet,is_good
+moose,mars,True
+moose,jupiter,True
+squirrel,mars,False
+squirrel,jupiter,False
+squirrel,venus,True
