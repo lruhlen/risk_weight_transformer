@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+jupyterlab = "*"
+jupytext = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "==0.24.2"
+scikit-learn = "*"
+risk_weight_transformer = {git = "ssh://git@github.com/lruhlen/risk_weight_transformer#egg=risk_weight_transformer", editable = true}
+[requires]
+python_version = "3.7"

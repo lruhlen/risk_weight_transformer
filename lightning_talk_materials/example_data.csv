@@ -1,0 +1,13 @@
+name,color,age,weight,is_monster
+Kermit The Frog,green,64,4,False
+Dr. Bunsen Honeydew,green,47,8,False
+Karli,green,2,3,True
+Oscar The Grouch,green,57,12,True
+Beaker,red,40,4,False
+Pepe The King Prawn,red,30,1,False
+Animal,red,60,7,True
+Elmo,red,35,4,True
+Sam The Eagle,blue,70,12,False
+Gonzo,blue,67,5,True
+Grover,blue,55,5,True
+Cookie Monster,blue,63,20,True
